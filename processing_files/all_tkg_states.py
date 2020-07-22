@@ -14,14 +14,6 @@ def analyse_4018(in_file):
     daterx = re.compile(r'(\d{4}-\d{2}-\d{2})  \d{2}:\d{2}:\d{2}')
     date = None
 
-    # slices as fields
-    en = slice( 9, 16)
-    tn = slice(27, 33)
-    tkgid = slice(34, 51)
-    tkseq = slice(52, 58)
-    type_ = slice(59, 68)
-    state = slice(68, 77)
-
     # counters
     en_count = 0
 
@@ -46,12 +38,20 @@ def analyse_4018(in_file):
                 if tkgid != '':
                     df.loc[df_i] = [en, tn, tkgid, tkseq, type_, state]
                     df_i += 1
-    df.to_csv('../output_data/tkg_' + date + '.csv', index=False)
+    df.to_csv('output_data/s12_4018_result_' + date + '.csv', index=False)
 
+    # Processing the results
+    tkgs = df.tkgid.unique()
+    # get all possible states of trunks
+    all_trunk_states = df.state.unique()
 
+    with open('output_data/trunk_groups_status.txt', 'w') as f:
+        for tkg in tkgs:
+            f.write('-' * 50 + '\n' + tkg + '\n')
+            for state in all_trunk_states:
+                f.write("\t{:8}:{}\n".format(state, len(df[(df.tkgid == tkg) & (df.state == state)].index)))
 
-    print('date:', date)
 
 
 if __name__ == '__main__':
-    analyse_4018('../input_data/result_of_4018.txt')
+    analyse_4018('input_data/result_of_4018.txt')

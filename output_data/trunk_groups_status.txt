@@ -1,0 +1,776 @@
+--------------------------------------------------
+PRACEBE0418
+	EXTBLK  :30
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+PRACEBE0428
+	EXTBLK  :10
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+PRACEBE0427
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+PRACEBE0432
+	EXTBLK  :0
+	AVFREE  :30
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+PP0XPUB
+	EXTBLK  :0
+	AVFREE  :227
+	AVBUSY  :15
+	READY   :89
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+PPXEPEB
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :3
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE042F
+	EXTBLK  :0
+	AVFREE  :9
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :1
+	UNAVAIL :0
+--------------------------------------------------
+NX0DPLB
+	EXTBLK  :0
+	AVFREE  :108
+	AVBUSY  :14
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0401
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :10
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0410
+	EXTBLK  :0
+	AVFREE  :29
+	AVBUSY  :1
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE043B
+	EXTBLK  :0
+	AVFREE  :8
+	AVBUSY  :2
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0404
+	EXTBLK  :0
+	AVFREE  :9
+	AVBUSY  :1
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE042D
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0416
+	EXTBLK  :0
+	AVFREE  :15
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :5
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0409
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :30
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE041C
+	EXTBLK  :0
+	AVFREE  :20
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE041D
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :10
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0408
+	EXTBLK  :0
+	AVFREE  :20
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0424
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :10
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE040B
+	EXTBLK  :0
+	AVFREE  :30
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE040D
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :30
+--------------------------------------------------
+CASCABE040A
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :30
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0412
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0417
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCAI00C19
+	EXTBLK  :0
+	AVFREE  :3
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :7
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0413
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :1
+	READY   :0
+	BLOCKED :9
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE043D
+	EXTBLK  :0
+	AVFREE  :87
+	AVBUSY  :3
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE043A
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE043C
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CL0I2BS
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :210
+	UNAVAIL :0
+--------------------------------------------------
+PP0TPUB
+	EXTBLK  :0
+	AVFREE  :353
+	AVBUSY  :16
+	READY   :27
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CL0XPUB
+	EXTBLK  :0
+	AVFREE  :257
+	AVBUSY  :12
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE041A
+	EXTBLK  :20
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :10
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE040C
+	EXTBLK  :0
+	AVFREE  :60
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :30
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0438
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+S_709_TELEVISA
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :3
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+S_EVENTOS
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :10
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE040E
+	EXTBLK  :0
+	AVFREE  :15
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE042B
+	EXTBLK  :0
+	AVFREE  :43
+	AVBUSY  :2
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+PP0YPUB
+	EXTBLK  :0
+	AVFREE  :276
+	AVBUSY  :3
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE042E
+	EXTBLK  :0
+	AVFREE  :29
+	AVBUSY  :1
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0429
+	EXTBLK  :0
+	AVFREE  :14
+	AVBUSY  :6
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CL0TPUB
+	EXTBLK  :0
+	AVFREE  :173
+	AVBUSY  :3
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0411
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0414
+	EXTBLK  :1
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :9
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0437
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0433
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0434
+	EXTBLK  :0
+	AVFREE  :30
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0426
+	EXTBLK  :0
+	AVFREE  :8
+	AVBUSY  :2
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE040F
+	EXTBLK  :0
+	AVFREE  :20
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE042A
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :10
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0403
+	EXTBLK  :0
+	AVFREE  :30
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0431
+	EXTBLK  :0
+	AVFREE  :9
+	AVBUSY  :1
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0419
+	EXTBLK  :0
+	AVFREE  :14
+	AVBUSY  :1
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0425
+	EXTBLK  :0
+	AVFREE  :16
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :14
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0406
+	EXTBLK  :0
+	AVFREE  :30
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0430
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :30
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0407
+	EXTBLK  :0
+	AVFREE  :24
+	AVBUSY  :3
+	READY   :0
+	BLOCKED :3
+	UNAVAIL :0
+--------------------------------------------------
+PPXEP3B
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :3
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CT01ZHB
+	EXTBLK  :31
+	AVFREE  :45
+	AVBUSY  :79
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+PPXEP4B
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :4
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0436
+	EXTBLK  :0
+	AVFREE  :24
+	AVBUSY  :6
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+ES0BPLB
+	EXTBLK  :0
+	AVFREE  :205
+	AVBUSY  :10
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CT0XPUB
+	EXTBLK  :0
+	AVFREE  :61
+	AVBUSY  :1
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+PPTEP3B
+	EXTBLK  :0
+	AVFREE  :3
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+RO0TPUB
+	EXTBLK  :0
+	AVFREE  :31
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+IX04PUB
+	EXTBLK  :0
+	AVFREE  :31
+	AVBUSY  :0
+	READY   :31
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CT0TPUB
+	EXTBLK  :0
+	AVFREE  :31
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+MY03PUB
+	EXTBLK  :0
+	AVFREE  :122
+	AVBUSY  :2
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+VL0TPUB
+	EXTBLK  :31
+	AVFREE  :61
+	AVBUSY  :1
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+PPTEP4B
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :4
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CL0YPUB
+	EXTBLK  :0
+	AVFREE  :361
+	AVBUSY  :11
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CLXEP4B
+	EXTBLK  :0
+	AVFREE  :4
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CLXEP3B
+	EXTBLK  :0
+	AVFREE  :3
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CLXEPEB
+	EXTBLK  :0
+	AVFREE  :3
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CLTEP4B
+	EXTBLK  :0
+	AVFREE  :4
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CLTEP3B
+	EXTBLK  :0
+	AVFREE  :3
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+LA03PUB
+	EXTBLK  :0
+	AVFREE  :62
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+ZA03PUB
+	EXTBLK  :0
+	AVFREE  :31
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+MG04PUB
+	EXTBLK  :0
+	AVFREE  :61
+	AVBUSY  :1
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CLTEPEB
+	EXTBLK  :0
+	AVFREE  :3
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+NX0XPUB
+	EXTBLK  :0
+	AVFREE  :61
+	AVBUSY  :1
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+RO0XPUB
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :31
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+E_CABEZA_FLUKE
+	EXTBLK  :0
+	AVFREE  :4
+	AVBUSY  :0
+	READY   :11
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0402
+	EXTBLK  :0
+	AVFREE  :29
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE041F
+	EXTBLK  :0
+	AVFREE  :30
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE041E
+	EXTBLK  :0
+	AVFREE  :26
+	AVBUSY  :4
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0421
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0422
+	EXTBLK  :0
+	AVFREE  :0
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :10
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE041B
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE042C
+	EXTBLK  :0
+	AVFREE  :22
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :8
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0405
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0435
+	EXTBLK  :0
+	AVFREE  :20
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0423
+	EXTBLK  :0
+	AVFREE  :19
+	AVBUSY  :1
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0439
+	EXTBLK  :0
+	AVFREE  :29
+	AVBUSY  :1
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CG21ZHB
+	EXTBLK  :0
+	AVFREE  :88
+	AVBUSY  :5
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
+--------------------------------------------------
+CASCABE0415
+	EXTBLK  :0
+	AVFREE  :10
+	AVBUSY  :0
+	READY   :0
+	BLOCKED :0
+	UNAVAIL :0
