@@ -38,14 +38,14 @@ def analyse_4018(in_file):
                 if tkgid != '':
                     df.loc[df_i] = [en, tn, tkgid, tkseq, type_, state]
                     df_i += 1
-    df.to_csv('output_data/s12_4018_result_' + date + '.csv', index=False)
+    df.to_csv('data/output/s12_4018_result_' + date + '.csv', index=False)
 
     # Processing the results
     tkgs = df.tkgid.unique()
     # get all possible states of trunks
     all_trunk_states = df.state.unique()
 
-    with open('output_data/trunk_groups_status.txt', 'w') as f:
+    with open('data/output/trunk_groups_status.txt', 'w') as f:
         for tkg in tkgs:
             f.write('-' * 50 + '\n' + tkg + '\n')
             for state in all_trunk_states:
@@ -54,4 +54,4 @@ def analyse_4018(in_file):
 
 
 if __name__ == '__main__':
-    analyse_4018('input_data/result_of_4018.txt')
+    analyse_4018('data/input/result_of_4018.txt')

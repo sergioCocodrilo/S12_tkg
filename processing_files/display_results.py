@@ -52,6 +52,4 @@ def display_results(in_file):
     [print(tkg,end='') for tkg in all_tkg]
 
 if __name__ == '__main__':
-    #file_to_read = input('Archivo a procesar:')
-    #display_results('../output_data/' + file_to_read)
-    display_results('../output_data/trunk_groups_status.txt')
+    display_results('data/output/trunk_groups_status.txt')
